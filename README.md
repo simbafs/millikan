@@ -5,3 +5,5 @@
 ```
 node index.mjs < data.csv > out.csv
 ```
+
+Author: C24106082 @ NCKU
